@@ -1,9 +1,8 @@
-# 🕶️ Netrox Admin Finder
-
-![Netrox GIF](https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif)
+# 🕶️ Netrox Admin Finder  ![](https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif)
 
 **Netrox Admin Finder** is a hacker-style CLI tool to uncover hidden admin pages on authorized targets.  
 Fast scanning, colorful terminal interface, real-time progress bars, and automatic result logging.  
+
 
 ---
 
